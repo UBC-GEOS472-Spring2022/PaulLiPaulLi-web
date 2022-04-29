@@ -1,4 +1,4 @@
-<iframe src="https://UBC-GEOS472-Spring2022.github.io/PaulLiPaulLi-web/test-sketch.html" height="300" width="500"></iframe>
+<iframe src="https://UBC-GEOS472-Spring2022.github.io/PaulLiPaulLi-web/lab1_index.html" height="300" width="500"></iframe>
 
 
 ## Welcome to GitHub Pages
