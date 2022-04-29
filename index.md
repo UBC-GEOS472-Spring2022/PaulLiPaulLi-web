@@ -1,5 +1,7 @@
 <iframe src="https://UBC-GEOS472-Spring2022.github.io/PaulLiPaulLi-web/lab1_index.html" height="300" width="500"></iframe>
 
+<iframe src="https://UBC-GEOS472-Spring2022.github.io/PaulLiPaulLi-web/lab1_index.html" height="300" width="500"></iframe>
+
 # Link to School Point Map
 https://ubc-geos472-spring2022.github.io/PaulLiPaulLi-web/lab1_index.html 
 # Link to School Heat Map
